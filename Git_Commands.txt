@@ -10,3 +10,8 @@ Commit -> Local avaiable (Comments)
     Git Push -> Merge Commits to Main Branch
 
 
+git pull 
+git push
+git sync ????
+
+git fetch
