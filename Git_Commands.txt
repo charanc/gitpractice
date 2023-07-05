@@ -1,0 +1,12 @@
+git Status 
+
+
+local -> Untacked files
+
+Stag ->Local tracking 
+
+Commit -> Local avaiable (Comments)
+
+    Git Push -> Merge Commits to Main Branch
+
+
