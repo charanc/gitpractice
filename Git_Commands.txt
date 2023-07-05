@@ -3,7 +3,7 @@ git Status
 
 local -> Untacked files
 
-Stag ->Local tracking 
+Stag ->Local tracking  (git add.)
 
 Commit -> Local avaiable (Comments)
 
